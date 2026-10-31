@@ -1,0 +1,5 @@
+- [ ] Wrap API calls in AlertsScreen with try-catch and handle 403
+- [ ] Wrap parallel API calls in AdminDashboard with try-catch
+- [ ] Add error states to EmployeeDashboard
+- [ ] Ensure scanner screens handle network/server errors without crashing
+- [ ] Verify fix by building and running
